@@ -1,0 +1,741 @@
+Price,Transmisson,Colour,Make Year,Mileage,Engine (CC),Fuel,Kilometer Run,Brand
+750000.0,Auto-2WD,Light blue,2005.0,11.0,1399.0,Petrol,87412.0,Hyundai
+700000.0,Manual-2WD,White,2013.0,15.0,2956.0,Diesel,60000.0,Tata
+600000.0,Manual-4WD,white,2017.0,15.0,50000.0,Diesel,50000.0,Mahindra
+375.0,Auto-2WD,white,2019.0,17.0,1200.0,Petrol,2400.0,Hyundai
+1400000.0,Manual-2WD,Artic Silver,2014.0,12.0,2956.0,Diesel,50000.0,Tata
+700000.0,Auto-2WD,Brown chocolate colour,2019.0,15.0,889.0,Petrol,80000.0,Tata
+580000.0,Manual-2WD,Black,2004.0,15.0,800.0,Petrol,75000.0,Maruti Suzuki
+1845000.0,Manual-2WD,Silver,2014.0,15.0,1200.0,Petrol,31000.0,Hyundai
+2050000.0,Auto-4WD,blue,2016.0,17.0,1200.0,Petrol,41000.0,Maruti Suzuki
+1025000.0,Manual-2WD,white,2008.0,20.0,50000.0,Petrol,43000.0,Maruti Suzuki
+1350000.0,Manual-4WD,red,2010.0,15.0,1100.0,Petrol,4200.0,Hyundai
+1250000.0,Manual-2WD,white,2018.0,15.0,50000.0,Diesel,50000.0,Mahindra
+3250000.0,Manual-4WD,white,2011.0,15.0,50000.0,Diesel,50000.0,Kia
+1950000.0,Manual-4WD,Silver grey,2015.0,15.0,2500.0,Diesel,65000.0,Mahindra
+3200000.0,Manual-2WD,silver,2019.0,15.0,2100.0,Electric,61000.0,Mahindra
+2500000.0,Manual-2WD,Earth Brown,2015.0,14.0,1400.0,Diesel,42000.0,Hyundai
+1350000.0,Manual-2WD,Champagne golden,2010.0,15.0,50000.0,Petrol,50000.0,Hyundai
+2350000.0,Manual-2WD,passion red,2017.0,14.0,1197.0,Petrol,7000.0,Hyundai
+1850000.0,Manual-2WD,Silver,2014.0,14.0,1200.0,Petrol,45000.0,Hyundai
+1430000.0,Manual-2WD,Clear white,2011.0,18.0,1399.0,Petrol,59000.0,Kia
+2600000.0,Manual-2WD,grey,2019.0,13.0,1200.0,Petrol,18300.0,Hyundai
+1780000.0,Manual-2WD,white,2017.0,15.0,1193.0,Petrol,50000.0,Tata
+1360000.0,Manual-2WD,Silver,2010.0,15.0,1100.0,Petrol,53000.0,Hyundai
+950000.0,Auto-2WD,silver,2013.0,10.0,1400.0,Petrol,50000.0,Tata
+2650000.0,Manual-2WD,Grey,2017.0,18.0,1200.0,Petrol,29000.0,Maruti Suzuki
+1275000.0,Manual-2WD,light Blue,2016.0,16.0,1200.0,Petrol,48000.0,Datsun
+2400000.0,Manual-4WD,dark red,2010.0,10.0,2500.0,Diesel,75000.0,Nissan
+1300000.0,Auto-2WD,Blue,2009.0,18.0,1086.0,Petrol,80000.0,Hyundai
+2950000.0,Manual-2WD,Space grey,2017.0,17.0,1500.0,Petrol,26000.0,Ford
+1550077.0,Manual-2WD,Exo - Red,2016.0,15.0,1368.0,Petrol,57000.0,Fiat
+3525000.0,Manual-2WD,White,2021.0,18.0,1200.0,Petrol,13750.0,Hyundai
+3450000.0,Auto-4WD,Silbhar,2016.0,15.0,50000.0,Diesel,750840.0,Mahindra
+550000.0,Manual-2WD,grey,2003.0,15.0,1299.0,Petrol,52000.0,Ford
+1500000.0,Manual-2WD,Off white,2016.0,14.0,1200.0,Petrol,70000.0,Ford
+640000.0,Manual-2WD,white,2002.0,15.0,1086.0,Petrol,50000.0,Hyundai
+3250000.0,Manual-4WD,chocolate gry,2011.0,13.0,2000.0,Diesel,67000.0,Kia
+550000.0,Auto-2WD,white,1997.0,15.0,50000.0,Diesel,50000.0,Nissan
+3399000.0,Manual-2WD,Brown,2023.0,15.0,999.0,Petrol,50000.0,Nissan
+575000.0,Manual-2WD,golden,2007.0,12.0,50000.0,Petrol,50000.0,Chevrolet
+2850000.0,Manual-2WD,white,2017.0,15.0,50000.0,Petrol,38000.0,Hyundai
+1050000.0,Manual-2WD,Red,2010.0,15.0,1086.0,Petrol,75000.0,Maruti Suzuki
+1050000.0,Manual-2WD,white,2007.0,14.0,1086.0,Petrol,71000.0,Hyundai
+749000.0,Manual-4WD,Silkie Silver,2006.0,16.0,1000.0,Petrol,74000.0,Maruti Suzuki
+4300000.0,Manual-2WD,White,2019.0,14.0,1600.0,Petrol,24000.0,Hyundai
+895000.0,Manual-2WD,white,2009.0,15.0,50000.0,Petrol,50000.0,Maruti Suzuki
+1400000.0,Manual-2WD,blue,2010.0,15.0,1200.0,Petrol,39888.0,Hyundai
+550000.0,Manual-2WD,white,2006.0,17.0,1400.0,Petrol,50000.0,Hyundai
+2350000.0,Manual-2WD,White,2016.0,15.0,1200.0,Petrol,34200.0,Honda
+475000.0,Auto-2WD,silver,2002.0,18.0,1000.0,Petrol,70000.0,Maruti Suzuki
+1825000.0,Power Steering,Orange,2017.0,15.0,50000.0,Diesel,50000.0,Tata
+2450000.0,Manual-2WD,Morun metallic,2016.0,12.0,1200.0,Petrol,30000.0,Honda
+700000.0,Auto-2WD,yellow,2012.0,5.0,3783.0,Diesel,60000.0,Tata
+1599999.0,Manual-2WD,Grey,2014.0,15.0,250.0,Petrol,42500.0,Nissan
+1550000.0,Manual-4WD,white,2016.0,15.0,50000.0,Petrol,50000.0,Ford
+1650000.0,Manual-2WD,Grey,2011.0,12.0,1600.0,Petrol,55708.0,Volkswagen
+2050000.0,Auto-2WD,GREY,2020.0,160.0,603.0,Electric,6000.0,Mahindra
+1400000.0,Manual-2WD,Silver,2011.0,14.0,1084.0,Petrol,57560.0,Hyundai
+2299999.0,Manual-2WD,white,2015.0,15.0,50000.0,Petrol,50000.0,Hyundai
+2099000.0,Manual-2WD,Maroon,2014.0,15.0,50000.0,Petrol,55000.0,Honda
+2099000.0,Manual-2WD,Maroon,2014.0,16.0,50000.0,Petrol,55000.0,Honda
+1425000.0,Manual-2WD,Dust grey,2009.0,13.0,1300.0,Petrol,70000.0,Maruti Suzuki
+1400000.0,Manual-2WD,white,2014.0,18.0,1248.0,Diesel,60000.0,Tata
+1250000.0,Manual-2WD,Blue,2020.0,15.0,50000.0,Diesel,50000.0,Other Brands
+1480000.0,Manual-2WD,White,2012.0,15.0,1200.0,Petrol,50000.0,Volkswagen
+2000000.0,Auto-2WD,Silver,2017.0,16.0,1200.0,Petrol,35200.0,Maruti Suzuki
+500000.0,Power Steering,white,2005.0,15.0,50000.0,Petrol,50000.0,Other Brands
+2100000.0,Manual-2WD,Yellow,2017.0,15.0,1948.0,Diesel,93726.0,Tata
+1950000.0,Auto-2WD,Silver,2013.0,13.0,1200.0,Petrol,47000.0,Maruti Suzuki
+375000.0,Manual-2WD,Silver,2000.0,10.0,1400.0,Petrol,71000.0,Other Brands
+920000.0,Auto-2WD,white,2009.0,15.0,50000.0,Petrol,70000.0,Maruti Suzuki
+3200000.0,Manual-4WD,beige,2010.0,15.0,2000.0,Diesel,70000.0,Nissan
+1175000.0,Manual-2WD,nilo,2013.0,15.0,800.0,Petrol,32000.0,Hyundai
+4125000.0,Manual-2WD,Silky silver,2021.0,16.0,1500.0,Petrol,12000.0,Maruti Suzuki
+3700000.0,Auto-2WD,blue white,2022.0,270.0,603.0,Electric,12000.0,Tata
+3300000.0,Manual-2WD,White,2017.0,15.0,1599.0,Petrol,70000.0,Hyundai
+2775000.0,Manual-4WD,white,2008.0,15.0,1500.0,Petrol,71000.0,Daihatsu
+1400000.0,Power Steering,silver,2015.0,12.0,1200.0,Petrol,50000.0,Maruti Suzuki
+4000000.0,Manual-2WD,Red + Black,2020.0,15.0,1500.0,Petrol,34000.0,Maruti Suzuki
+3000000.0,Manual-2WD,Blue,2020.0,18.0,1200.0,Petrol,11000.0,Maruti Suzuki
+1500000.0,Manual-2WD,White,2021.0,15.0,2900.0,Diesel,45000.0,Tata
+1225000.0,Auto-2WD,gray,2010.0,15.0,1200.0,Petrol,62000.0,Maruti Suzuki
+1325000.0,Manual-2WD,Red,2016.0,18.0,800.0,Petrol,42500.0,Maruti Suzuki
+2300000.0,Auto-2WD,Grey,2016.0,15.0,1200.0,Petrol,25000.0,Maruti Suzuki
+2100000.0,Manual-4WD,White,2018.0,15.0,2523.0,Diesel,59000.0,Mahindra
+2750000.0,Manual-2WD,Gray,2016.0,15.0,1200.0,Petrol,23000.0,Hyundai
+2525000.0,Manual-2WD,silver,2019.0,15.0,1200.0,Petrol,17000.0,Hyundai
+2325000.0,Manual-4WD,Black,2010.0,12.0,1800.0,Petrol,72000.0,Skoda
+2350000.0,Power Steering,Off white,2021.0,15.0,2500.0,Diesel,50000.0,Mahindra
+1599000.0,Manual-2WD,Grey,2010.0,14.0,1197.0,Petrol,60500.0,Hyundai
+420000.0,Auto-2WD,White,2012.0,18.0,800.0,Petrol,50000.0,Maruti Suzuki
+1500000.0,Manual-2WD,blue,2011.0,15.0,1200.0,Petrol,45400.0,Hyundai
+2075000.0,Manual-2WD,silver,2021.0,15.0,1200.0,Petrol,31000.0,Maruti Suzuki
+2975000.0,Manual-2WD,silver,2016.0,16.0,2179.0,Diesel,62370.0,Mahindra
+3990000.0,Auto-2WD,Red,2019.0,15.0,1600.0,Petrol,38000.0,Ssangyong
+700000.0,Manual-4WD,white,2010.0,15.0,3500.0,Diesel,50000.0,Tata
+2100000.0,Manual-2WD,White,2014.0,18.0,1200.0,Petrol,58000.0,Maruti Suzuki
+350000.0,Auto-2WD,blue,2007.0,7.0,1948.0,Diesel,35000.0,Tata
+400000.0,Auto-2WD,White,2014.0,14.0,800.0,Petrol,5500.0,Maruti Suzuki
+950000.0,Manual-2WD,white,2010.0,15.0,2500.0,Diesel,50000.0,Mahindra
+395900.0,Manual-2WD,Silver,2000.0,15.0,1600.0,Petrol,50000.0,Other Brands
+2350000.0,Manual-2WD,Army green,2014.0,15.0,2200.0,Diesel,97500.0,Mahindra
+1075900.0,Manual-2WD,Blue,2011.0,15.0,1600.0,Petrol,40000.0,Other Chinese Brands
+1600000.0,Manual-2WD,Silver,2015.0,12.0,1383.0,Petrol,25125.0,Fiat
+500000.0,Manual-2WD,Black,2007.0,15.0,1500.0,Diesel,71000.0,Tata
+900000.0,Manual-2WD,Golden,2012.0,18.0,995.0,Petrol,30000.0,Chevrolet
+1720000.0,Manual-2WD,White,2007.0,15.0,2400.0,Diesel,100000.0,Mahindra
+1500000.0,Auto-2WD,White,2010.0,15.0,1198.0,Petrol,43000.0,Hyundai
+1050000.0,Power Steering,Sky blue,2006.0,15.0,1086.0,Petrol,50000.0,Hyundai
+1800000.0,Manual-2WD,silver,1975.0,12.0,1200.0,Petrol,95000.0,Toyota
+2265000.0,Power Steering,Premium silver,2018.0,16.0,1200.0,Petrol,43000.0,Maruti Suzuki
+2600000.0,Manual-2WD,white,2016.0,15.0,1200.0,Petrol,34000.0,Hyundai
+1450000.0,Manual-4WD,red,2005.0,11.0,2000.0,Diesel,95000.0,Kia
+1900000.0,Manual-2WD,white,2013.0,15.0,1000.0,Petrol,50000.0,Ford
+2350000.0,Manual-2WD,White,2009.0,12.0,1600.0,Petrol,55000.0,Toyota
+1600000.0,Manual-2WD,Silver,2015.0,12.0,1600.0,Petrol,65000.0,Skoda
+800000.0,Manual-2WD,white,2003.0,15.0,1086.0,Petrol,90000.0,Hyundai
+570000.0,Manual-2WD,Sky blue,2002.0,14.0,1086.0,Petrol,89.0,Hyundai
+470000.0,Manual-2WD,White,2001.0,14.0,1000.0,Petrol,95.0,Hyundai
+3080000.0,Manual-2WD,Grey,2021.0,12.0,1200.0,Petrol,10000.0,Kia
+3850000.0,Auto-2WD,white,2022.0,15.0,50000.0,Electric,50000.0,Tata
+1290000.0,Manual-2WD,gray,2008.0,12.0,1200.0,Petrol,67000.0,Hyundai
+1125000.0,Auto-2WD,Blue,2010.0,20.0,1000.0,Petrol,72000.0,Maruti Suzuki
+950000.0,Manual-2WD,White,2005.0,15.0,1086.0,Petrol,50000.0,Hyundai
+1490000.0,Manual-2WD,Grey,2013.0,15.0,1086.0,Petrol,40000.0,Hyundai
+2075000.0,Manual-2WD,Blue,2016.0,15.0,1197.0,Petrol,39000.0,Maruti Suzuki
+1075000.0,Manual-2WD,Silver,2010.0,15.0,996.0,Petrol,61477.0,Maruti Suzuki
+1300000.0,Manual-2WD,white,2010.0,15.0,50000.0,Petrol,50000.0,Maruti Suzuki
+500000.0,Manual-4WD,White,2015.0,15.0,800.0,Petrol,40000.0,Maruti Suzuki
+2250000.0,Manual-2WD,Silver,2015.0,15.0,1200.0,Petrol,46000.0,Maruti Suzuki
+1100000.0,Manual-4WD,white,2018.0,16.0,1405.0,Diesel,95000.0,Tata
+1525000.0,Manual-2WD,51000,2010.0,15.0,1198.0,Petrol,50000.0,Hyundai
+4034000.0,Manual-2WD,white,2023.0,15.0,999.0,Petrol,50000.0,Nissan
+2075000.0,Manual-2WD,Brown,2016.0,16.0,1200.0,Petrol,47000.0,Maruti Suzuki
+650000.0,Power Steering,sliver,2001.0,15.0,1000.0,Petrol,80000.0,Hyundai
+2550000.0,Manual-4WD,Silver,2019.0,15.0,1196.0,Petrol,17000.0,Hyundai
+500000.0,Manual-2WD,sky,2001.0,15.0,2800.0,Petrol,90000.0,Other Brands
+2050000.0,Manual-2WD,black,2015.0,15.0,1600.0,Petrol,35000.0,Volkswagen
+1550000.0,Manual-2WD,white,2015.0,13.0,1400.0,Petrol,35000.0,Fiat
+4575000.0,Manual-2WD,white,2019.0,15.0,1500.0,Petrol,38000.0,Hyundai
+2250000.0,Manual-2WD,Orange,2016.0,15.0,15000.0,Petrol,50000.0,Ford
+2865000.0,Manual-2WD,chocolate,2017.0,15.0,1197.0,Petrol,35000.0,Hyundai
+2900000.0,Manual-2WD,white,2017.0,15.0,1200.0,Petrol,38000.0,Hyundai
+1250000.0,Manual-2WD,golden,2012.0,15.0,1400.0,Petrol,38000.0,Chevrolet
+2300000.0,Manual-2WD,mehroon,2018.0,14.0,1200.0,Petrol,27000.0,Hyundai
+3150000.0,Manual-2WD,Grey,2010.0,15.0,2000.0,Petrol,75000.0,Volkswagen
+3975000.0,Manual-2WD,Red,2021.0,15.0,1300.0,Petrol,30000.0,Maruti Suzuki
+1265000.0,Manual-2WD,Blue,2009.0,15.0,1197.0,Petrol,61000.0,Hyundai
+395000.0,Manual-2WD,green,2003.0,15.0,1400.0,Diesel,75000.0,Tata
+390000.0,Manual-2WD,black,2000.0,13.0,1400.0,Petrol,90000.0,Tata
+1550000.0,Manual-4WD,white,2016.0,13.0,2523.0,Diesel,45000.0,Mahindra
+2425000.0,Manual-2WD,orange,2016.0,13.0,1500.0,Petrol,38000.0,Ford
+2275000.0,Manual-2WD,silver,2015.0,14.0,1200.0,Petrol,40000.0,Hyundai
+1525000.0,Manual-2WD,silver,2014.0,14.0,1197.0,Petrol,38000.0,Nissan
+1399000.0,Manual-2WD,Grey,2009.0,14.0,1300.0,Petrol,52000.0,Maruti Suzuki
+875000.0,Manual-2WD,silver,2007.0,14.0,1000.0,Petrol,61000.0,Daihatsu
+2150000.0,Manual-4WD,Red,2007.0,13.0,2000.0,Diesel,78000.0,Hyundai
+540000.0,Manual-2WD,white,2014.0,14.0,800.0,Petrol,610000.0,Maruti Suzuki
+1400000.0,Auto-2WD,Silver,2007.0,14.0,1400.0,Petrol,100000.0,Toyota
+2190000.0,Manual-2WD,Mehroon,2017.0,14.0,1197.0,Petrol,38000.0,Maruti Suzuki
+1375000.0,Manual-2WD,silver,2014.0,16.0,1000.0,Petrol,28000.0,Maruti Suzuki
+2125000.0,Manual-2WD,Stardust,2014.0,15.0,1197.0,Petrol,48000.0,Hyundai
+1150000.0,Manual-2WD,White,2014.0,16.0,1400.0,Diesel,70.0,Ford
+1350000.0,Manual-2WD,Blue,2012.0,14.0,1200.0,Petrol,59000.0,Honda
+1625000.0,Manual-2WD,white,2010.0,15.0,1500.0,Petrol,61000.0,Mazda
+1950000.0,Manual-4WD,Silver,2007.0,15.0,50000.0,Petrol,50000.0,Maruti Suzuki
+1725000.0,Manual-2WD,white,2013.0,15.0,50000.0,Petrol,62000.0,Volkswagen
+1375000.0,Auto-2WD,white,2016.0,15.0,50000.0,Electric,50000.0,Mahindra
+1675000.0,Manual-2WD,silver,2012.0,15.0,1200.0,Petrol,52000.0,Maruti Suzuki
+1999999.0,Manual-2WD,Dew white,2017.0,17.0,1200.0,Petrol,50000.0,Tata
+750000.0,Manual-2WD,gray,2008.0,15.0,800.0,Petrol,50000.0,Maruti Suzuki
+795000.0,Manual-2WD,artic silver,2010.0,18.0,1405.0,Diesel,64000.0,Tata
+3650000.0,Manual-2WD,white,2021.0,15.0,1200.0,Petrol,21000.0,Hyundai
+4275000.0,Manual-2WD,Magnative Gray,2020.0,16.0,1500.0,Petrol,28500.0,Kia
+2450000.0,Manual-2WD,Silver,2021.0,15.0,1000.0,Petrol,5600.0,Nissan
+1900000.0,Auto-2WD,Metallic grey,2013.0,18.0,1200.0,Petrol,45000.0,Maruti Suzuki
+3950000.0,Manual-2WD,White,2019.0,15.0,1600.0,Petrol,20000.0,Hyundai
+1850000.0,Auto-2WD,Green,2014.0,12.0,1000.0,Petrol,40000.0,Maruti Suzuki
+3400000.0,Auto-2WD,Dark blue,2018.0,18.0,1500.0,Diesel,40000.0,Tata
+1100000.0,Manual-4WD,Silver,2007.0,15.0,1000.0,Petrol,60000.0,Hyundai
+2850000.0,Manual-2WD,Brown,2017.0,15.0,1200.0,Petrol,50000.0,Hyundai
+1175000.0,Manual-4WD,green,2010.0,15.0,2169.0,Diesel,70000.0,Tata
+3150000.0,Manual-2WD,Blue,2016.0,12.0,2200.0,Diesel,50000.0,Mahindra
+2299000.0,Manual-2WD,Smoke Grey,2015.0,15.0,1499.0,Diesel,50000.0,Ford
+1500000.0,Manual-2WD,white,2015.0,15.0,1100.0,Petrol,50000.0,Maruti Suzuki
+2400000.0,Manual-2WD,orange-coloured,2016.0,12.0,1596.0,Petrol,36000.0,Renault
+1050000.0,Manual-2WD,white metallice,2010.0,10.0,1596.0,Petrol,65000.0,Other Chinese Brands
+650000.0,Power Steering,white,2003.0,15.0,1000.0,Petrol,50000.0,Hyundai
+1375000.0,Manual-2WD,Silver,2010.0,15.0,1400.0,Diesel,47000.0,Hyundai
+1185000.0,Manual-2WD,Silver,2009.0,15.0,1300.0,Petrol,45000.0,Maruti Suzuki
+630000.0,Auto-2WD,Blue,2017.0,15.0,702.0,Diesel,5900.0,Tata
+1475000.0,Manual-2WD,White,2017.0,15.0,1196.0,Petrol,38300.0,Maruti Suzuki
+4050000.0,Manual-2WD,premium silver,2021.0,20.0,1500.0,Petrol,17000.0,Maruti Suzuki
+1475000.0,Manual-2WD,white,2017.0,15.0,1196.0,Petrol,38300.0,Maruti Suzuki
+3300000.0,Power Steering,silver,2016.0,15.0,2000.0,Petrol,56000.0,Mahindra
+1350000.0,Manual-2WD,silver,2009.0,13.0,1298.0,Petrol,64000.0,Maruti Suzuki
+2350000.0,Manual-4WD,blue,2009.0,12.0,2000.0,Diesel,73000.0,Hyundai
+1700000.0,Manual-2WD,Cream white,2013.0,14.0,1200.0,Petrol,62000.0,Hyundai
+1400000.0,Manual-4WD,silver,2015.0,15.0,2200.0,Diesel,130000.0,Tata
+4800000.0,Manual-2WD,white,2022.0,15.0,50000.0,Diesel,50000.0,Hyundai
+3100000.0,Manual-2WD,grey,2017.0,18.0,1248.0,Diesel,56000.0,Maruti Suzuki
+975000.0,Manual-2WD,silver,2008.0,15.0,1948.0,Diesel,56000.0,Tata
+1350000.0,Manual-2WD,Black,2009.0,15.0,1197.0,Petrol,50000.0,Hyundai
+3700000.0,Power Steering,Yellow,2021.0,15.0,4898.0,Diesel,3700.0,Eicher
+699000.0,Auto-2WD,silver,2007.0,15.0,800.0,Petrol,50000.0,Maruti Suzuki
+500000.0,Auto-2WD,Black,2007.0,15.0,1500.0,Petrol,20.0,Tata
+1400000.0,Power Steering,Grey,2010.0,15.0,1300.0,Petrol,61000.0,Maruti Suzuki
+1500000.0,Manual-2WD,Mate Black,2010.0,15.0,1600.0,Petrol,86000.0,Other Chinese Brands
+525000.0,Manual-2WD,white,2012.0,10.0,800.0,Petrol,8200.0,Maruti Suzuki
+1500000.0,Manual-2WD,read,2016.0,14.0,2900.0,Diesel,80000.0,Tata
+1750000.0,Manual-4WD,white,2018.0,12.0,2523.0,Diesel,60000.0,Mahindra
+1350000.0,Auto-4WD,white,2014.0,15.0,50000.0,Diesel,50000.0,Mahindra
+2275000.0,Manual-2WD,Grey,2021.0,15.0,1000.0,Petrol,15000.0,Maruti Suzuki
+1325000.0,Auto-2WD,Silver,2009.0,15.0,1200.0,Petrol,70000.0,Hyundai
+2149999.0,Manual-2WD,Red,2015.0,16.0,1200.0,Petrol,41100.0,Maruti Suzuki
+1450000.0,Manual-2WD,White,2017.0,15.0,2500.0,Petrol,53000.0,Mahindra
+1100000.0,Power Steering,silver,2011.0,17.0,1000.0,Petrol,58000.0,Maruti Suzuki
+1100000.0,Manual-2WD,Silver,2007.0,15.0,1500.0,Petrol,75000.0,Honda
+2500000.0,Manual-2WD,silver,2016.0,15.0,1200.0,Petrol,81000.0,Hyundai
+4300000.0,Manual-4WD,White,2014.0,15.0,1500.0,Petrol,59000.0,Daihatsu
+1150000.0,Manual-2WD,Black,2007.0,13.0,1096.0,Petrol,57000.0,Hyundai
+515000.0,Auto-2WD,white,2007.0,19.0,796.0,Petrol,50000.0,Maruti Suzuki
+365000.0,Auto-2WD,white,2002.0,18.0,796.0,Petrol,56000.0,Maruti Suzuki
+350000.0,Auto-2WD,Whitr,2010.0,10.0,800.0,Petrol,80000.0,Maruti Suzuki
+2500000.0,Manual-2WD,white,2010.0,15.0,50000.0,Petrol,50000.0,Other Brands
+1385000.0,Manual-2WD,asure blue,2009.0,14.0,1300.0,Petrol,76500.0,Maruti Suzuki
+950000.0,Manual-2WD,Cream,2020.0,15.0,700.0,Diesel,28250.0,Tata
+1700000.0,Manual-4WD,Army green,1998.0,18.0,1200.0,Petrol,98000.0,Maruti Suzuki
+2225000.0,Manual-2WD,Grey,2021.0,15.0,1086.0,Petrol,15000.0,Hyundai
+1800000.0,Auto-2WD,Marron,2010.0,15.0,1400.0,Petrol,76342.0,Hyundai
+2225000.0,Manual-2WD,Grey,2021.0,15.0,1100.0,Petrol,15000.0,Hyundai
+1600000.0,Manual-2WD,Silver,2014.0,14.0,1186.0,Petrol,35000.0,Hyundai
+650000.0,Auto-4WD,white,2015.0,15.0,50000.0,Diesel,50000.0,Eicher
+1250000.0,Manual-2WD,metalic very light gold,2006.0,13.0,1596.0,Petrol,69000.0,Nissan
+2260000.0,Manual-2WD,white,2016.0,15.0,1200.0,Petrol,42000.0,Maruti Suzuki
+950000.0,Manual-4WD,WHITE,2011.0,12.0,2523.0,Diesel,77000.0,Mahindra
+2100000.0,Manual-2WD,grey,2015.0,14.0,1197.0,Petrol,47000.0,Maruti Suzuki
+1575000.0,Manual-2WD,grey,2010.0,13.0,1197.0,Petrol,58000.0,Hyundai
+575000.0,Manual-2WD,Blue,1997.0,12.0,850.0,Petrol,98521.0,Daihatsu
+1050000.0,Manual-2WD,White,2014.0,10.0,2900.0,Diesel,790000.0,Mahindra
+3550000.0,Manual-2WD,Blue,2018.0,15.0,1500.0,Petrol,50000.0,Ford
+2400000.0,Manual-2WD,Silver,2017.0,15.0,1200.0,Petrol,29000.0,Tata
+1075000.0,Manual-2WD,blue,2013.0,22.0,814.0,Petrol,45000.0,Hyundai
+2650000.0,Auto-2WD,White,2015.0,15.0,2179.0,Diesel,155000.0,Mahindra
+1200000.0,Manual-2WD,White,2013.0,15.0,1200.0,Petrol,56000.0,Ford
+1800000.0,Auto-2WD,metallic green,2014.0,15.0,1000.0,Petrol,50000.0,Maruti Suzuki
+1300000.0,Manual-2WD,White,2010.0,12.0,1100.0,Petrol,75000.0,Hyundai
+875000.0,Auto-4WD,red,1997.0,15.0,2800.0,Diesel,50000.0,Toyota
+1025000.0,Manual-2WD,grey,2006.0,18.0,1100.0,Petrol,100000.0,Hyundai
+1100000.0,Manual-2WD,white,2017.0,15.0,1300.0,Petrol,72256.0,Maruti Suzuki
+1700000.0,Auto-4WD,white,2015.0,15.0,50000.0,Diesel,50000.0,Mahindra
+895000.0,Auto-2WD,silbar,2014.0,12.0,5223.0,Diesel,9800.0,Mahindra
+1275000.0,Manual-2WD,blue,2008.0,14.0,1200.0,Petrol,62000.0,Hyundai
+3600000.0,Auto-2WD,Blue and white,2021.0,270.0,2010.0,Electric,25000.0,Tata
+2550000.0,Auto-2WD,white,2018.0,15.0,800.0,Petrol,50000.0,Maruti Suzuki
+2300000.0,Auto-2WD,Cream,2018.0,16.0,1200.0,Petrol,47000.0,Ford
+1485000.0,Manual-2WD,silver,2010.0,14.0,1200.0,Petrol,46374.0,Hyundai
+2000000.0,Auto-4WD,Coffee,2006.0,12.0,2000.0,Diesel,54000.0,Kia
+2050000.0,Auto-4WD,maroon,2009.0,16.0,1991.0,Diesel,85000.0,Hyundai
+2700000.0,Manual-2WD,Silver,2010.0,10.0,2000.0,Petrol,50000.0,Hyundai
+4499999.0,Manual-4WD,sliver,2017.0,15.0,2499.0,Diesel,56000.0,Other Brands
+1770000.0,Manual-2WD,Black,2015.0,15.0,1500.0,Petrol,75000.0,Ford
+400000.0,Auto-2WD,white,2003.0,14.0,796.0,Petrol,70000.0,Maruti Suzuki
+2050000.0,Manual-2WD,Red,2009.0,18.0,50000.0,Petrol,77000.0,Toyota
+985000.0,Manual-2WD,Red,2012.0,12.0,1200.0,Petrol,52000.0,Ford
+1800000.0,Manual-2WD,White,2016.0,15.0,50000.0,Petrol,50000.0,Ford
+2490000.0,Manual-2WD,Black and white,2016.0,18.0,1300.0,Petrol,47000.0,Maruti Suzuki
+1375000.0,Manual-2WD,Silver,2009.0,13.0,1298.0,Petrol,50000.0,Maruti Suzuki
+775000.0,Manual-2WD,Blue,2003.0,15.0,1100.0,Petrol,80000.0,Hyundai
+2150000.0,Auto-2WD,White,2015.0,14.0,1500.0,Petrol,42000.0,Ford
+1400000.0,Auto-2WD,white,2012.0,15.0,50000.0,Petrol,50000.0,Hyundai
+2400000.0,Manual-2WD,navy blue,2016.0,15.0,1200.0,Petrol,30000.0,Hyundai
+1500000.0,Auto-4WD,white,2020.0,50.0,1200.0,Diesel,50000.0,Mahindra
+1050000.0,Auto-2WD,blue,2021.0,18.0,800.0,Diesel,30000.0,Tata
+1750000.0,Manual-2WD,Grey,2014.0,15.0,50000.0,Petrol,50000.0,Hyundai
+1450000.0,Manual-2WD,Silver,2010.0,12.0,1200.0,Petrol,53000.0,Hyundai
+4500000.0,Manual-4WD,white,2020.0,11.0,2500.0,Diesel,55000.0,Other Brands
+575000.0,Manual-2WD,white,2012.0,15.0,1000.0,Petrol,25000.0,Chevrolet
+900000.0,Manual-2WD,white,2017.0,10.0,2900.0,Diesel,1700000.0,Tata
+1450000.0,Manual-2WD,silver,2017.0,12.0,1200.0,Petrol,40000.0,Nissan
+3450000.0,Manual-2WD,Silver,2021.0,16.0,1497.0,Petrol,30000.0,Ford
+1600000.0,Manual-4WD,red,2017.0,15.0,1656.0,Diesel,70000.0,Ford
+2150000.0,Auto-4WD,White,2018.0,20.0,998.0,Petrol,38000.0,Maruti Suzuki
+2450000.0,Auto-4WD,Grey,2010.0,10.0,1998.0,Petrol,56000.0,Kia
+1600000.0,Manual-4WD,White,2016.0,15.0,2523.0,Diesel,50000.0,Tata
+1775000.0,Manual-2WD,Light Brown,2014.0,15.0,1200.0,Petrol,57000.0,Honda
+425000.0,Manual-2WD,Metallic Silver,1998.0,15.0,2000.0,Diesel,50000.0,Nissan
+1250000.0,Manual-2WD,silver,2014.0,17.0,800.0,Petrol,23000.0,Maruti Suzuki
+2000000.0,Manual-2WD,silver,2016.0,15.0,1200.0,Petrol,49000.0,Maruti Suzuki
+3400000.0,Manual-4WD,Blue,1998.0,10.0,2800.0,Diesel,146000.0,Toyota
+2950000.0,Manual-2WD,Silver,2015.0,15.0,1600.0,Petrol,50000.0,Hyundai
+850000.0,Auto-2WD,Sllver&Gray,2006.0,12.0,2950.0,Diesel,1500.0,Tata
+1500000.0,Manual-2WD,White,2018.0,15.0,2999.0,Diesel,35000.0,Other Brands
+1300000.0,Manual-2WD,Dew white,2014.0,15.0,1248.0,Diesel,50000.0,Tata
+3474000.0,Manual-2WD,Nexa blue,2022.0,17.0,1197.0,Petrol,315.0,Maruti Suzuki
+1125000.0,Auto-2WD,gray,2008.0,14.0,1086.0,Petrol,76009.0,Hyundai
+1500000.0,Power Steering,Cream,2017.0,15.0,1200.0,Petrol,14000.0,Datsun
+4500000.0,Auto-2WD,Blue,2003.0,15.0,2000.0,Petrol,62000.0,Other Brands
+1250000.0,Manual-2WD,Golden,2007.0,15.0,1500.0,Petrol,90000.0,Nissan
+2900000.0,Manual-2WD,Silver,2021.0,16.0,1200.0,Petrol,13000.0,Tata
+3100000.0,Manual-2WD,Silver,2020.0,20.0,1200.0,Petrol,6700.0,Hyundai
+1950000.0,Manual-2WD,gray,2008.0,11.0,1600.0,Petrol,71000.0,Toyota
+2100000.0,Manual-4WD,silver,2009.0,12.0,2000.0,Diesel,90000.0,Hyundai
+1400000.0,Manual-2WD,Silver,2011.0,15.0,2600.0,Diesel,114000.0,Kia
+860000.0,Manual-2WD,red,2009.0,17.0,800.0,Petrol,67.0,Maruti Suzuki
+1850000.0,Power Steering,Grey,2015.0,15.0,1100.0,Petrol,19800.0,Hyundai
+950000.0,Manual-2WD,White,2007.0,18.0,1047.0,Petrol,67000.0,Hyundai
+2200000.0,Manual-2WD,silver,2014.0,15.0,1600.0,Petrol,47000.0,Volkswagen
+685000.0,Auto-2WD,white,2019.0,12.0,800.0,Petrol,50000.0,Maruti Suzuki
+725000.0,Manual-2WD,Red,2009.0,15.0,995.0,Petrol,63000.0,Chevrolet
+2000000.0,Power Steering,silver,2014.0,15.0,1600.0,Petrol,21000.0,Volkswagen
+2250000.0,Manual-2WD,Polar white,2016.0,15.0,1200.0,Petrol,59000.0,Maruti Suzuki
+1250000.0,Manual-2WD,Grey,2015.0,18.0,800.0,Petrol,40000.0,Maruti Suzuki
+635000.0,Manual-2WD,white,2018.0,15.0,50000.0,Petrol,50000.0,Maruti Suzuki
+1000000.0,Manual-2WD,Red,2008.0,15.0,1300.0,Petrol,20000.0,Other Chinese Brands
+1050000.0,Manual-4WD,BALCK,2008.0,11.0,1600.0,Petrol,68000.0,Chevrolet
+1675000.0,Manual-2WD,silver,2013.0,15.0,1600.0,Petrol,50000.0,Volkswagen
+1975000.0,Manual-2WD,Sea grey,2013.0,15.0,1500.0,Petrol,31000.0,Ford
+2250000.0,Manual-4WD,white,2007.0,15.0,2495.0,Diesel,50000.0,Mitsubishi
+2300000.0,Manual-4WD,Blue,2009.0,15.0,1997.0,Diesel,67000.0,Hyundai
+3900000.0,Manual-4WD,White,2017.0,14.0,2179.0,Diesel,70.0,Mahindra
+3000000.0,Manual-2WD,Blue Sky Metallic,2011.0,15.0,1600.0,Petrol,65000.0,Hyundai
+875000.0,Manual-2WD,silver sky,2007.0,11.0,1400.0,Petrol,68000.0,Kia
+1300000.0,Manual-2WD,silver,2010.0,13.0,1200.0,Petrol,68000.0,Maruti Suzuki
+1650000.0,Manual-2WD,Grey,2016.0,14.0,1000.0,Petrol,37000.0,Maruti Suzuki
+2850000.0,Manual-2WD,Metallic white,2021.0,14.0,1200.0,Petrol,22000.0,Maruti Suzuki
+2450000.0,Auto-2WD,silver,2014.0,14.0,50000.0,Petrol,44000.0,Ford
+2150000.0,Auto-4WD,marron,2008.0,12.0,2000.0,Diesel,65000.0,Hyundai
+2625000.0,Manual-2WD,Silky Silver,2018.0,15.0,1200.0,Petrol,33598.0,Maruti Suzuki
+2350000.0,Manual-2WD,Chocolate,2016.0,10.0,1699.0,Petrol,47000.0,Volkswagen
+1400000.0,Manual-2WD,Red,2012.0,15.0,50000.0,Petrol,50000.0,Volkswagen
+1100000.0,Manual-2WD,Red,2010.0,15.0,1061.0,Petrol,49565.0,Maruti Suzuki
+1250000.0,Manual-2WD,white,2019.0,15.0,1196.0,Petrol,50000.0,Maruti Suzuki
+3200000.0,Power Steering,white,2016.0,15.0,1499.0,Petrol,21500.0,Hyundai
+3100000.0,Manual-2WD,sky blue 🔵,2016.0,15.0,2200.0,Diesel,50000.0,Mahindra
+2090000.0,Manual-2WD,Grey,2014.0,15.0,1197.0,Petrol,42000.0,Hyundai
+1600000.0,Manual-2WD,Red,2013.0,13.0,1200.0,Petrol,62000.0,Hyundai
+2499000.0,Manual-2WD,White,2016.0,15.0,1200.0,Petrol,50000.0,Hyundai
+3230000.0,Manual-2WD,white,2021.0,15.0,50000.0,Petrol,8500.0,Kia
+1175000.0,Manual-2WD,Skey Blue,2010.0,15.0,1086.0,Petrol,50000.0,Kia
+2050000.0,Manual-2WD,Sleek Silver,2015.0,15.0,1197.0,Petrol,39000.0,Hyundai
+4100000.0,Manual-2WD,grey,2021.0,15.0,1600.0,Petrol,32000.0,Nissan
+795000.0,Manual-2WD,Black,2005.0,15.0,1000.0,Petrol,65000.0,Kia
+3500000.0,Manual-2WD,white,2019.0,15.0,50000.0,Petrol,17000.0,Maruti Suzuki
+2950000.0,Manual-2WD,white,2021.0,13.0,1200.0,Petrol,6000.0,Hyundai
+2050000.0,Manual-4WD,Silver,2008.0,15.0,2500.0,Diesel,65000.0,Kia
+690000.0,Auto-2WD,silver,2012.0,15.0,800.0,Petrol,65000.0,Maruti Suzuki
+1300000.0,Manual-2WD,white,2013.0,18.0,1600.0,Diesel,81000.0,Mahindra
+1150000.0,Manual-2WD,Grey,2016.0,22.0,800.0,Petrol,17000.0,Datsun
+2600000.0,Manual-2WD,Silver,2016.0,15.0,1600.0,Petrol,23000.0,Volkswagen
+3775000.0,Manual-2WD,POLAR WHITE,2018.0,14.0,1500.0,Petrol,35000.0,Hyundai
+1450000.0,Auto-2WD,Red,2016.0,19.0,998.0,Petrol,45000.0,Maruti Suzuki
+1100000.0,Manual-2WD,Silver,2013.0,18.0,1248.0,Diesel,69500.0,Fiat
+1580000.0,Manual-2WD,Grey,2011.0,16.0,1197.0,Petrol,52000.0,Hyundai
+850000.0,Auto-2WD,silver,2016.0,16.0,800.0,Petrol,34000.0,Maruti Suzuki
+750000.0,Auto-2WD,red,2018.0,13.0,1000.0,Diesel,75000.0,Mahindra
+1445000.0,Manual-2WD,grey light,2011.0,18.0,1200.0,Petrol,51700.0,Hyundai
+2500000.0,Power Steering,Ash,2011.0,70.0,50000.0,Petrol,70000.0,Toyota
+1850000.0,Manual-2WD,White,2014.0,15.0,1197.0,Petrol,50000.0,Maruti Suzuki
+1525000.0,Manual-2WD,black,2011.0,10.0,1896.0,Diesel,70000.0,Skoda
+1700000.0,Auto-2WD,white,2012.0,15.0,1197.0,Petrol,48000.0,Hyundai
+2475000.0,Manual-2WD,Gray,2018.0,16.0,1200.0,Petrol,36500.0,Hyundai
+2200000.0,Manual-2WD,silver,2015.0,15.0,50000.0,Petrol,50000.0,Ford
+2000000.0,Manual-4WD,Green,2009.0,15.0,50000.0,Diesel,50000.0,Hyundai
+920000.0,Auto-2WD,silver,2018.0,13.0,796.0,Petrol,35000.0,Maruti Suzuki
+1700000.0,Power Steering,Grey,2014.0,15.0,1500.0,Petrol,52000.0,Toyota
+1025000.0,Manual-2WD,goldenó,2010.0,15.0,996.0,Petrol,51000.0,Maruti Suzuki
+4200000.0,Power Steering,silver,2021.0,15.0,1500.0,Petrol,16000.0,Maruti Suzuki
+1599000.0,Manual-2WD,Red,2007.0,15.0,1496.0,Petrol,50000.0,Toyota
+1700000.0,Manual-2WD,Pearl White,2013.0,15.0,1200.0,Petrol,50000.0,Maruti Suzuki
+1750000.0,Manual-2WD,Red,2016.0,16.0,1000.0,Petrol,44532.0,Mahindra
+1100000.0,Auto-2WD,grey,2014.0,16.0,50000.0,Petrol,65000.0,Datsun
+2050000.0,Manual-2WD,White,2017.0,15.0,50000.0,Petrol,45000.0,Maruti Suzuki
+950000.0,Power Steering,Blue,2006.0,12.0,1086.0,Diesel,72000.0,Kia
+520000.0,Manual-2WD,गेस विज,2001.0,16.0,1061.0,Petrol,75.0,Maruti Suzuki
+1775000.0,Manual-2WD,Sliver,2013.0,14.0,1600.0,Petrol,53500.0,Volkswagen
+3400000.0,Manual-2WD,Silver,2017.0,15.0,2200.0,Diesel,50000.0,Mahindra
+3125000.0,Manual-2WD,white,2021.0,15.0,1200.0,Petrol,42000.0,Kia
+1200000.0,Auto-2WD,White,2016.0,15.0,50000.0,Diesel,100000.0,Mahindra
+1575000.0,Manual-2WD,Smoke Grey,2015.0,13.0,1196.0,Petrol,485780.0,Ford
+2450000.0,Manual-2WD,Silver,2020.0,15.0,50000.0,Petrol,50000.0,Ford
+1150000.0,Manual-2WD,black,2010.0,15.0,50000.0,Petrol,50000.0,Hyundai
+335000.0,Manual-2WD,white,2000.0,15.0,50000.0,Petrol,50000.0,Maruti Suzuki
+1999000.0,Manual-2WD,Silver,2017.0,20.0,1199.0,Petrol,50000.0,Tata
+2725000.0,Manual-2WD,white,2017.0,14.0,1200.0,Petrol,30000.0,Hyundai
+2050000.0,Manual-2WD,Silky Silver,2014.0,15.0,1196.0,Petrol,54383.0,Hyundai
+1455000.0,Manual-2WD,Marun,2015.0,15.0,1000.0,Petrol,52000.0,Maruti Suzuki
+1170000.0,Auto-2WD,blue,2009.0,15.0,1200.0,Petrol,85000.0,Maruti Suzuki
+2799000.0,Manual-2WD,white,2018.0,15.0,3700.0,Diesel,90000.0,Tata
+1800000.0,Auto-4WD,White,2018.0,15.0,50000.0,Diesel,90000.0,Mahindra
+550000.0,Auto-2WD,White,2004.0,10.0,1200.0,Petrol,320000.0,Kia
+2100000.0,Manual-4WD,white,2015.0,15.0,2200.0,Diesel,64000.0,Mahindra
+3850000.0,Manual-4WD,Blue,2017.0,15.0,2200.0,Diesel,5600.0,Mahindra
+3285000.0,Manual-2WD,Silver,2017.0,10.0,1600.0,Petrol,49000.0,Hyundai
+1675900.0,Manual-2WD,Grey,2012.0,18.0,1197.0,Petrol,55000.0,Maruti Suzuki
+1500000.0,Manual-2WD,Silver,2011.0,12.0,1600.0,Petrol,55000.0,Volkswagen
+1290000.0,Manual-4WD,Maroon,2007.0,13.0,1350.0,Petrol,75000.0,Honda
+575000.0,Manual-2WD,white,2003.0,15.0,1498.0,Petrol,19000.0,Other Brands
+1050000.0,Manual-2WD,silver,2009.0,15.0,1100.0,Petrol,83000.0,Kia
+4100000.0,Manual-2WD,White,2017.0,12.0,1500.0,Petrol,41000.0,Hyundai
+1250000.0,Auto-2WD,Grey,2015.0,15.0,1200.0,Petrol,50000.0,Ford
+2500000.0,Manual-2WD,white,2018.0,15.0,1500.0,Petrol,50000.0,Renault
+950000.0,Auto-2WD,Blue,2021.0,20.0,600.0,Diesel,123.0,Tata
+900000.0,Manual-2WD,silver,2008.0,14.0,1100.0,Petrol,53000.0,Kia
+1250000.0,Manual-2WD,Silver,2013.0,15.0,1200.0,Petrol,43000.0,Ford
+2575000.0,Manual-2WD,Titan Gray Metallic,2019.0,15.0,1197.0,Petrol,20000.0,Hyundai
+3850000.0,Manual-4WD,Orange,2016.0,15.0,2200.0,Diesel,53000.0,Mahindra
+1500000.0,Auto-2WD,white,2020.0,15.0,50000.0,Petrol,50000.0,Maruti Suzuki
+2550000.0,Manual-2WD,Silver,2019.0,16.0,1196.0,Petrol,17000.0,Hyundai
+4500000.0,Manual-4WD,white,2017.0,15.0,50000.0,Diesel,50000.0,Other Brands
+700000.0,Manual-2WD,INFINITE BLACK,2010.0,15.0,1300.0,Petrol,84000.0,Tata
+1050000.0,Auto-2WD,Yellow,2013.0,10.0,3200.0,Diesel,60000.0,Other Brands
+650000.0,Power Steering,सेतो,2015.0,12.0,1400.0,Diesel,150.0,Tata
+1275000.0,Manual-2WD,grey,2005.0,14.0,1600.0,Petrol,36000.0,Mazda
+500000.0,Manual-4WD,white,1975.0,15.0,1200.0,Petrol,50000.0,Toyota
+1950000.0,Manual-4WD,Silver,2006.0,15.0,2000.0,Petrol,75000.0,Maruti Suzuki
+700000.0,Auto-4WD,white,2018.0,15.0,796.0,Petrol,63000.0,Maruti Suzuki
+899999.0,Manual-2WD,Silver,2005.0,15.0,1200.0,Petrol,70000.0,Maruti Suzuki
+4850000.0,Manual-2WD,White,2019.0,14.0,1598.0,Petrol,41000.0,Hyundai
+2250000.0,Manual-2WD,white,2017.0,15.0,1200.0,Petrol,35680.0,Maruti Suzuki
+950000.0,Manual-2WD,Blue,2004.0,10.0,1600.0,Petrol,61000.0,Mazda
+200000.0,Manual-2WD,white,1999.0,16.0,800.0,Petrol,20000.0,Maruti Suzuki
+3975000.0,Manual-2WD,WhIte,2021.0,15.0,1500.0,Petrol,18500.0,Maruti Suzuki
+2475000.0,Manual-2WD,Morun metallic,2016.0,12.0,1200.0,Petrol,37000.0,Honda
+1250000.0,Manual-2WD,Silver,2009.0,13.0,1096.0,Petrol,78000.0,Hyundai
+1200000.0,Manual-2WD,white,2016.0,15.0,2523.0,Diesel,127130.0,Mahindra
+500000.0,Auto-2WD,white,2007.0,18.0,1400.0,Diesel,53000.0,Tata
+3500000.0,Manual-4WD,Silver,2010.0,15.0,2500.0,Diesel,100000.0,Toyota
+1490000.0,Auto-4WD,White,2011.0,14.0,1600.0,Petrol,38000.0,Volkswagen
+1600000.0,Manual-2WD,Gray,2012.0,14.0,1100.0,Petrol,33000.0,Hyundai
+2650000.0,Manual-2WD,white,2016.0,15.0,1200.0,Petrol,40000.0,Hyundai
+2950000.0,Auto-2WD,Sleek Silver,2015.0,12.0,1200.0,Petrol,53000.0,Hyundai
+1750000.0,Manual-2WD,White,2021.0,15.0,1000.0,Petrol,5000.0,Datsun
+1200000.0,Auto-2WD,red,2005.0,12.0,1000.0,Petrol,42000.0,Hyundai
+280000.0,Manual-2WD,White,2019.0,17.0,800.0,Petrol,125000.0,Maruti Suzuki
+2575000.0,Manual-4WD,Silver,2017.0,12.0,2200.0,Diesel,88000.0,Mahindra
+880000.0,Power Steering,Red,2008.0,15.0,1086.0,Petrol,70000.0,Kia
+1875000.0,Manual-4WD,Light blue green,2008.0,17.0,2000.0,Diesel,66000.0,Hyundai
+1850000.0,Manual-4WD,light sky blue,2007.0,15.0,2000.0,Diesel,560000.0,Hyundai
+1875000.0,Manual-2WD,Grey,2015.0,16.0,1200.0,Petrol,48000.0,Maruti Suzuki
+2099000.0,Manual-2WD,Maroon,2014.0,12.0,1500.0,Petrol,55000.0,Honda
+900000.0,Manual-2WD,silver,2012.0,14.0,814.0,Petrol,40000.0,Hyundai
+2700000.0,Auto-2WD,White,2017.0,15.0,1200.0,Petrol,50000.0,Hyundai
+3800000.0,Manual-4WD,white,2019.0,40.0,5883.0,Diesel,50000.0,Tata
+450000.0,Manual-2WD,sky Blue,2002.0,17.0,993.0,Petrol,27000.0,Maruti Suzuki
+3200000.0,Manual-2WD,White,2018.0,14.0,1400.0,Diesel,43000.0,Maruti Suzuki
+3600000.0,Manual-2WD,White,2021.0,20.0,1200.0,Petrol,16000.0,Hyundai
+211000.0,Auto-4WD,white,2015.0,15.0,50000.0,Petrol,50000.0,Maruti Suzuki
+3400000.0,Auto-4WD,Grey,2017.0,12.0,1500.0,Diesel,45000.0,Renault
+415000.0,Auto-4WD,Sky blue,2069.0,17.0,624.0,Petrol,32564.0,Tata
+2650000.0,Manual-2WD,Silver,2020.0,19.0,1200.0,Petrol,11000.0,Maruti Suzuki
+1700000.0,Manual-2WD,Maroon Red,2014.0,15.0,1200.0,Petrol,39000.0,Hyundai
+1325000.0,Manual-2WD,Maroon,2016.0,12.0,1200.0,Petrol,39000.0,Datsun
+3200000.0,Power Steering,maroon color (red),2018.0,14.0,1200.0,Diesel,66000.0,Maruti Suzuki
+3450000.0,Manual-2WD,White,2016.0,12.0,1600.0,Petrol,41000.0,Hyundai
+3200000.0,Manual-2WD,White,2019.0,15.0,1400.0,Petrol,39000.0,Hyundai
+3600000.0,Auto-2WD,green,2021.0,15.0,1200.0,Petrol,36000.0,Tata
+2400000.0,Manual-2WD,white,2017.0,15.0,50000.0,Petrol,50000.0,Maruti Suzuki
+2050000.0,Manual-4WD,White,2007.0,8.0,2500.0,Diesel,79000.0,Mitsubishi
+2100000.0,Manual-4WD,Akasilver,2009.0,12.0,1191.0,Diesel,65000.0,Hyundai
+2515000.0,Manual-4WD,Grey,2009.0,10.0,2000.0,Diesel,71000.0,Kia
+2250000.0,Auto-2WD,milavared,2016.0,14.0,1198.0,Petrol,35000.0,Mahindra
+1000000.0,Manual-2WD,red,2011.0,15.0,1200.0,Petrol,80000.0,Ford
+3650000.0,Manual-4WD,orange,2011.0,12.0,1995.0,Diesel,87000.0,Hyundai
+3490000.0,Auto-4WD,Red,2010.0,15.0,2400.0,Petrol,84000.0,Toyota
+2150000.0,Manual-4WD,Silver,2015.0,15.0,1197.0,Petrol,40014.0,Maruti Suzuki
+1599999.0,Manual-2WD,gry,2011.0,13.0,1200.0,Petrol,52000.0,Hyundai
+2500000.0,Power Steering,Blue,2021.0,15.0,1000.0,Petrol,18000.0,Renault
+1500000.0,Manual-2WD,Silver,2010.0,14.0,1200.0,Petrol,58000.0,Hyundai
+2975000.0,Manual-2WD,silver,2018.0,13.0,2500.0,Diesel,30000.0,Other Brands
+1225000.0,Manual-2WD,silver,2013.0,13.0,1200.0,Petrol,4000.0,Ford
+3300000.0,Auto-4WD,silver,2015.0,15.0,2494.0,Petrol,12000.0,Toyota
+3600000.0,Manual-4WD,White,2010.0,15.0,2755.0,Diesel,50000.0,Toyota
+1700000.0,Manual-2WD,Silver,2012.0,13.0,1200.0,Petrol,63000.0,Maruti Suzuki
+1500000.0,Power Steering,Red,2022.0,120.0,301.5,Electric,3000.0,Other Brands
+500000.0,Manual-4WD,blue white,2016.0,5.0,10000.0,Diesel,60000.0,Tata
+1875000.0,Manual-4WD,maroon red,2007.0,13.0,2000.0,Diesel,68000.0,Kia
+550000.0,Power Steering,white,2007.0,15.0,50000.0,Petrol,77000.0,Tata
+2150000.0,Power Steering,grey,2016.0,15.0,50000.0,Petrol,57186.0,Maruti Suzuki
+1500000.0,Manual-2WD,black,2016.0,15.0,2800.0,Diesel,50000.0,Tata
+1750000.0,Auto-4WD,blue,2006.0,12.0,1992.0,Diesel,160000.0,Hyundai
+1400000.0,Manual-2WD,Silver,2011.0,15.0,1086.0,Petrol,97000.0,Hyundai
+835000.0,Manual-2WD,grey,2010.0,11.0,1400.0,Petrol,70100.0,Chevrolet
+2250000.0,Manual-2WD,Red,2018.0,15.0,1200.0,Petrol,27000.0,Hyundai
+1250000.0,Manual-2WD,silver,2012.0,15.0,1200.0,Petrol,68000.0,Skoda
+2100000.0,Manual-2WD,Silver,2015.0,15.0,1600.0,Petrol,49000.0,Volkswagen
+1250000.0,Power Steering,गोल्डेन,2014.0,15.0,2956.0,Diesel,50000.0,Tata
+2400000.0,Manual-4WD,white,2016.0,15.0,2200.0,Diesel,50000.0,Mahindra
+2695000.0,Manual-4WD,White,2007.0,10.0,2500.0,Diesel,80000.0,Toyota
+2695000.0,Manual-4WD,White,2007.0,10.0,2500.0,Diesel,80000.0,Toyota
+930000.0,Manual-2WD,silver,2007.0,15.0,1300.0,Petrol,78000.0,Daihatsu
+3700000.0,Auto-4WD,silver,2021.0,20.0,1200.0,Petrol,5000.0,Tata
+1400000.0,Auto-2WD,selver,2015.0,15.0,50000.0,Diesel,80000.0,Tata
+1690000.0,Manual-2WD,red,2017.0,17.0,999.0,Petrol,31000.0,Maruti Suzuki
+990000.0,Manual-4WD,Maroon,2001.0,13.0,2200.0,Diesel,143000.0,Kia
+1735000.0,Manual-2WD,Chocolate,2013.0,14.0,1197.0,Petrol,44000.0,Hyundai
+2450000.0,Auto-2WD,WHite,2013.0,15.0,1200.0,Petrol,35000.0,Volkswagen
+3800000.0,Auto-4WD,White,2008.0,15.0,2362.0,Petrol,91000.0,Toyota
+2350000.0,Auto-2WD,Metal Mustard,2021.0,16.0,999.0,Petrol,14000.0,Renault
+2225000.0,Manual-2WD,sleek silver,2016.0,15.0,1197.0,Petrol,33000.0,Hyundai
+1100000.0,Power Steering,grey,2008.0,15.0,1000.0,Petrol,88000.0,Hyundai
+3585000.0,Manual-4WD,sleek sliver,2015.0,15.0,1591.0,Petrol,57000.0,Hyundai
+1000000.0,Manual-2WD,yellow,2010.0,8.0,1900.0,Diesel,82000.0,Tata
+3590000.0,Auto-2WD,sleek silver,2015.0,15.0,1591.0,Petrol,57000.0,Hyundai
+3585000.0,Manual-2WD,sleek silver,2015.0,15.0,1591.0,Petrol,57000.0,Hyundai
+2785000.0,Auto-2WD,Moonlight Silver,2021.0,15.0,999.0,Petrol,7000.0,Renault
+3200000.0,Manual-2WD,Intense red,2021.0,15.0,1200.0,Petrol,11000.0,Kia
+3650000.0,Manual-2WD,silver,2016.0,12.0,1600.0,Petrol,39243.0,Hyundai
+1700000.0,Auto-4WD,white,2013.0,15.0,50000.0,Diesel,50000.0,Chevrolet
+1875000.0,Manual-4WD,grey,2014.0,15.0,1197.0,Petrol,42000.0,Hyundai
+2450000.0,Manual-2WD,orange,2016.0,15.0,1600.0,Petrol,49000.0,Volkswagen
+3650000.0,Manual-2WD,White,2021.0,15.0,1200.0,Petrol,17000.0,Tata
+925000.0,Manual-2WD,Blue,2008.0,15.0,1400.0,Petrol,67000.0,Hyundai
+1100000.0,Power Steering,silver,2005.0,15.0,1600.0,Petrol,100500.0,Nissan
+1650000.0,Auto-2WD,red,2014.0,14.0,2956.0,Diesel,125000.0,Tata
+3050000.0,Manual-2WD,white,2018.0,15.0,2499.0,Diesel,50000.0,Other Brands
+950000.0,Power Steering,grey,2003.0,15.0,1300.0,Petrol,140000.0,Toyota
+1775000.0,Manual-2WD,White,2013.0,15.0,1200.0,Diesel,54500.0,Ford
+1185000.0,Auto-2WD,black,2006.0,16.0,2523.0,Diesel,50000.0,Mahindra
+2500000.0,Manual-2WD,Gray,2016.0,16.0,50000.0,Diesel,50000.0,Maruti Suzuki
+1800000.0,Manual-2WD,silver,2018.0,12.0,1900.0,Diesel,50000.0,Tata
+1390000.0,Manual-2WD,Silver,2006.0,14.0,1200.0,Petrol,55000.0,Maruti Suzuki
+1450000.0,Manual-2WD,blue,2020.0,12.0,1396.0,Diesel,28000.0,Tata
+1725000.0,Manual-2WD,Royal black,2007.0,15.0,1600.0,Petrol,47000.0,Toyota
+1800000.0,Auto-2WD,blue,2017.0,15.0,50000.0,Diesel,79000.0,Tata
+820000.0,Manual-2WD,orange,2006.0,17.0,1400.0,Petrol,65000.0,Kia
+750000.0,Auto-2WD,White,2013.0,15.0,2523.0,Diesel,50000.0,Mahindra
+2650000.0,Manual-2WD,white,2015.0,15.0,1200.0,Petrol,50000.0,Hyundai
+3800000.0,Manual-2WD,White,2015.0,15.0,2800.0,Diesel,50000.0,Toyota
+765000.0,Manual-2WD,Silver,2008.0,15.0,850.0,Petrol,36000.0,Perodua
+875000.0,Manual-4WD,white,1992.0,15.0,1600.0,Petrol,100000.0,Maruti Suzuki
+1400000.0,Power Steering,White,2018.0,15.0,50000.0,Diesel,34000.0,Mahindra
+1250000.0,Manual-2WD,silver,2010.0,16.0,1200.0,Petrol,48000.0,Hyundai
+3390000.0,Manual-2WD,gre,2017.0,15.0,1598.0,Petrol,41000.0,Hyundai
+550000.0,Manual-4WD,white,2016.0,15.0,800.0,Petrol,50000.0,Maruti Suzuki
+550000.0,Manual-2WD,Silky Silver,2006.0,15.0,800.0,Petrol,81155.0,Maruti Suzuki
+835000.0,Manual-2WD,marron,2008.0,16.0,1087.0,Petrol,55000.0,Maruti Suzuki
+1500000.0,Power Steering,red,1999.0,10.0,1300.0,Petrol,50000.0,Daihatsu
+995000.0,Manual-2WD,Black,2010.0,14.0,1300.0,Petrol,48000.0,Other Brands
+1650000.0,Manual-2WD,Black,2011.0,13.0,1600.0,Petrol,47000.0,Volkswagen
+1399999.0,Auto-2WD,White,2010.0,16.0,1200.0,Petrol,61000.0,Maruti Suzuki
+3000000.0,Manual-2WD,White,2021.0,15.0,1000.0,Petrol,21000.0,Skoda
+1099000.0,Manual-2WD,silver,2010.0,14.0,1200.0,Petrol,750000.0,Maruti Suzuki
+1625000.0,Manual-2WD,silver,2013.0,22.0,50000.0,Diesel,73000.0,Skoda
+1980000.0,Manual-2WD,Coffee,2019.0,15.0,1200.0,Petrol,20000.0,Tata
+4850000.0,Manual-2WD,Silver,2018.0,13.0,2000.0,Petrol,52000.0,Kia
+1500000.0,Manual-2WD,gray,2013.0,18.0,1500.0,Diesel,96000.0,Ford
+890000.0,Manual-2WD,White,2009.0,15.0,2523.0,Diesel,50000.0,Mahindra
+2150000.0,Manual-2WD,white,2015.0,15.0,1500.0,Petrol,70000.0,Ford
+925000.0,Power Steering,Ghum,2017.0,10.0,50000.0,Diesel,40000.0,Tata
+1475000.0,Manual-2WD,Grey,2010.0,14.0,1200.0,Petrol,61000.0,Hyundai
+920000.0,Manual-2WD,white,2009.0,15.0,1350.0,Petrol,72000.0,Hyundai
+1225000.0,Manual-2WD,Grey,2012.0,12.0,1200.0,Petrol,48000.0,Maruti Suzuki
+1399999.0,Manual-2WD,Azure Grey,2008.0,13.0,1300.0,Petrol,66000.0,Maruti Suzuki
+1175000.0,Power Steering,gold,2013.0,15.0,2956.0,Diesel,93000.0,Tata
+1190000.0,Manual-2WD,silver,2009.0,15.0,1200.0,Petrol,60000.0,Maruti Suzuki
+1975000.0,Manual-2WD,White,2016.0,16.0,1400.0,Diesel,60000.0,Skoda
+650000.0,Manual-2WD,white,2003.0,15.0,50000.0,Petrol,50000.0,Hyundai
+1800000.0,Auto-2WD,silver,2006.0,11.0,1300.0,Petrol,8500.0,Toyota
+2495000.0,Auto-2WD,White,2018.0,15.0,1200.0,Petrol,28800.0,Ford
+1050000.0,Manual-2WD,Red,2011.0,12.0,1500.0,Petrol,76000.0,Other Brands
+1350000.0,Manual-2WD,White,2016.0,16.0,800.0,Petrol,56000.0,Maruti Suzuki
+4200000.0,Manual-4WD,white,2020.0,15.0,50000.0,Diesel,50000.0,Mahindra
+3025000.0,Manual-2WD,white,2017.0,17.0,1250.0,Diesel,50000.0,Maruti Suzuki
+2000000.0,Manual-2WD,silver,2014.0,14.0,1500.0,Petrol,50000.0,Maruti Suzuki
+3600000.0,Manual-4WD,Blue,2017.0,15.0,50000.0,Diesel,50000.0,Mahindra
+1800000.0,Auto-2WD,blue,2018.0,15.0,2609.0,Diesel,23000.0,Mahindra
+2350000.0,Power Steering,GREY,2018.0,15.0,1500.0,Petrol,35500.0,Ford
+1250000.0,Manual-2WD,grey,2008.0,15.0,1300.0,Petrol,66235.0,Maruti Suzuki
+2775000.0,Manual-2WD,graynite,2021.0,15.0,1200.0,Petrol,12000.0,Hyundai
+3350000.0,Manual-2WD,Blue white,2018.0,18.0,1300.0,Diesel,32000.0,Maruti Suzuki
+2225000.0,Manual-2WD,red,2017.0,15.0,1200.0,Petrol,33256.0,Hyundai
+2075000.0,Manual-2WD,silver,2014.0,15.0,1200.0,Petrol,42136.0,Maruti Suzuki
+2550000.0,Manual-2WD,silver,2017.0,15.0,1200.0,Petrol,39523.0,Maruti Suzuki
+1850000.0,Manual-2WD,silver,2020.0,15.0,1200.0,Petrol,23000.0,Maruti Suzuki
+2350000.0,Manual-2WD,silver,2018.0,15.0,1200.0,Petrol,17000.0,Hyundai
+2190000.0,Manual-2WD,Grey silver,2019.0,18.0,1200.0,Petrol,17300.0,Maruti Suzuki
+1399000.0,Power Steering,Silver,2018.0,15.0,800.0,Petrol,42000.0,Maruti Suzuki
+1625000.0,Manual-4WD,Green,2002.0,10.0,3000.0,Diesel,150000.0,Toyota
+1405000.0,Manual-2WD,White,2013.0,21.0,998.0,Petrol,46160.0,Maruti Suzuki
+1950000.0,Manual-2WD,Blue,2012.0,12.0,1600.0,Petrol,71000.0,Hyundai
+2500000.0,Manual-2WD,Silver,2015.0,17.0,1400.0,Petrol,45000.0,Maruti Suzuki
+3250000.0,Manual-2WD,white,2020.0,15.0,50000.0,Petrol,35000.0,Tata
+1245000.0,Auto-4WD,white,1998.0,15.0,1997.0,Petrol,50000.0,Toyota
+750000.0,Manual-2WD,white,2009.0,15.0,50000.0,Diesel,50000.0,Mahindra
+1850000.0,Manual-2WD,Pearl white,2016.0,15.0,1200.0,Petrol,39000.0,Tata
+770000.0,Auto-2WD,silver,2009.0,12.0,1300.0,Petrol,75000.0,Perodua
+1975000.0,Auto-2WD,silver,2018.0,15.0,50000.0,Electric,50000.0,Mahindra
+1200000.0,Manual-4WD,white,2005.0,15.0,50000.0,Diesel,50000.0,Nissan
+4450000.0,Manual-4WD,grey,2015.0,15.0,1500.0,Petrol,43000.0,Daihatsu
+1550000.0,Manual-2WD,grey metalic,2014.0,20.0,1000.0,Petrol,48.0,Maruti Suzuki
+1300000.0,Auto-2WD,white,2018.0,15.0,50000.0,Diesel,46000.0,Tata
+2375000.0,Manual-2WD,silver,2016.0,15.0,1200.0,Petrol,38000.0,Maruti Suzuki
+2375000.0,Manual-2WD,silver,2016.0,14.0,1200.0,Petrol,52000.0,Hyundai
+1750000.0,Manual-2WD,Royal blue,2007.0,15.0,1600.0,Petrol,47000.0,Toyota
+505000.0,Manual-2WD,White,2015.0,15.0,800.0,Petrol,52500.0,Maruti Suzuki
+1800000.0,Auto-2WD,Light green,2014.0,15.0,1000.0,Petrol,47000.0,Maruti Suzuki
+1650000.0,Manual-2WD,Red,2017.0,15.0,1200.0,Petrol,43000.0,Ford
+2150000.0,Manual-2WD,Silver,2013.0,15.0,1300.0,Petrol,53000.0,Toyota
+1950000.0,Manual-4WD,White,2017.0,15.0,2523.0,Diesel,38000.0,Mahindra
+1550000.0,Manual-2WD,Dark maroon,2010.0,12.0,1200.0,Petrol,73747.0,Hyundai
+1450000.0,Manual-2WD,Silver,2016.0,15.0,1200.0,Petrol,54590.0,Maruti Suzuki
+1950000.0,Manual-2WD,Gray,2014.0,15.0,50000.0,Petrol,63000.0,Hyundai
+1150000.0,Power Steering,white,2009.0,15.0,1086.0,Petrol,60000.0,Hyundai
+999999.0,Manual-2WD,Black,2011.0,13.0,1199.0,Petrol,53000.0,Ford
+4100000.0,Manual-2WD,red black,2021.0,15.0,1500.0,Petrol,24500.0,Maruti Suzuki
+2399999.0,Manual-4WD,White,2020.0,14.0,0.0,Diesel,49000.0,Mahindra
+1575000.0,Manual-2WD,Grey,2007.0,10.0,1600.0,Petrol,60000.0,Honda
+1000000.0,Manual-2WD,Blue,2012.0,17.0,814.0,Petrol,47000.0,Hyundai
+1450000.0,Manual-2WD,white,2010.0,15.0,50000.0,Petrol,50000.0,Maruti Suzuki
+2550000.0,Manual-4WD,white,2007.0,15.0,1500.0,Petrol,53000.0,Daihatsu
+450000.0,Power Steering,white,2013.0,15.0,901.0,Diesel,16057.0,Mahindra
+1325000.0,Power Steering,Gray,2015.0,15.0,50000.0,Petrol,50000.0,Datsun
+2000000.0,Manual-2WD,grey,2014.0,25.0,50000.0,Petrol,62000.0,Hyundai
+1525000.0,Manual-2WD,White,2018.0,15.0,1200.0,Petrol,63000.0,Maruti Suzuki
+680000.0,Power Steering,Golden,2008.0,10.0,1200.0,Petrol,72000.0,Chevrolet
+4450000.0,Manual-2WD,Grey,2019.0,12.0,1598.0,Petrol,37000.0,Hyundai
+600000.0,Manual-2WD,Nilo,2006.0,18.0,800.0,Petrol,50000.0,Maruti Suzuki
+1170000.0,Manual-2WD,red,2009.0,15.0,1100.0,Petrol,50000.0,Hyundai
+900000.0,Manual-2WD,White,2015.0,15.0,50000.0,Petrol,63.0,Tata
+1400000.0,Manual-2WD,silver,2010.0,12.0,2200.0,Petrol,57200.0,Tata
+250000.0,Manual-2WD,blue,2060.0,15.0,50000.0,Diesel,50000.0,Tata
+1150000.0,Manual-2WD,Sky blue,2008.0,20.0,1200.0,Petrol,11111.0,Hyundai
+630000.0,Auto-2WD,Silver grey,2000.0,18.0,800.0,Petrol,4950.0,Maruti Suzuki
+390000.0,Manual-2WD,white,2012.0,23.0,624.0,Petrol,35000.0,Tata
+875000.0,Manual-2WD,White,2009.0,14.0,1300.0,Petrol,52000.0,Other Brands
+3675000.0,Manual-4WD,Blue,2017.0,15.0,2200.0,Diesel,65000.0,Mahindra
+1600000.0,Auto-2WD,ret,2009.0,10.0,1900.0,Petrol,76000.0,Kia
+1025000.0,Manual-2WD,Black,2010.0,13.0,1300.0,Petrol,55000.0,Other Brands
+3550000.0,Manual-2WD,white,2021.0,15.0,2500.0,Diesel,50000.0,Other Brands
+1850000.0,Manual-2WD,White,2015.0,8.0,4000.0,Diesel,105000.0,Tata
+2200000.0,Manual-2WD,white,2015.0,17.0,1387.0,Petrol,44500.0,Maruti Suzuki
+4800000.0,Manual-2WD,Black,2021.0,15.0,50000.0,Petrol,7700.0,Other Brands
+2500000.0,Manual-2WD,Brown,2016.0,15.0,1500.0,Petrol,45000.0,Ford
+715000.0,Manual-4WD,white,2009.0,15.0,800.0,Petrol,80000.0,Maruti Suzuki
+2320000.0,Manual-2WD,silver gray,2015.0,15.0,1490.0,Petrol,30100.0,Honda
+900000.0,Auto-2WD,Golden,2009.0,14.0,1000.0,Petrol,85000.0,Chevrolet
+975000.0,Auto-2WD,Husky Blue,2005.0,15.0,1100.0,Petrol,82000.0,Hyundai
+875000.0,Manual-2WD,Grey,2004.0,15.0,1068.0,Petrol,50000.0,Hyundai
+1450000.0,Auto-2WD,N3,2009.0,15.0,1200.0,Petrol,80000.0,Hyundai
+1075000.0,Manual-2WD,Black,2011.0,15.0,1200.0,Petrol,60000.0,Ford
+775000.0,Manual-2WD,white,2010.0,15.0,50000.0,Petrol,50000.0,Maruti Suzuki
+2450000.0,Manual-2WD,Brown,2018.0,15.0,998.0,Petrol,27969.0,Volkswagen
+1250000.0,Manual-2WD,white,2009.0,15.0,50000.0,Petrol,50000.0,Maruti Suzuki
+540000.0,Auto-2WD,Black,2004.0,14.0,1400.0,Petrol,60000.0,Kia
+2025000.0,Manual-2WD,Grey,2014.0,15.0,1197.0,Petrol,47582.0,Maruti Suzuki
+1150000.0,Manual-4WD,SETO,2016.0,15.0,2500.0,Petrol,46230.0,Mahindra
+600000.0,Manual-2WD,SILVER,2004.0,15.0,800.0,Petrol,63586.0,Maruti Suzuki
+1725000.0,Manual-2WD,SILVER,2014.0,15.0,1086.0,Petrol,52490.0,Hyundai
+590000.0,Manual-2WD,GRE,2002.0,15.0,1061.0,Petrol,62570.0,Hyundai
+1897000.0,Manual-2WD,Silver,2014.0,15.0,1197.0,Petrol,74000.0,Maruti Suzuki
+2475000.0,Manual-2WD,Silver,2016.0,17.0,1500.0,Diesel,75000.0,Renault
+1700000.0,Auto-2WD,white,2014.0,14.0,1200.0,Petrol,65300.0,Maruti Suzuki
+1700000.0,Manual-2WD,Silver,2013.0,13.0,1200.0,Petrol,50000.0,Hyundai
+350000.0,Manual-4WD,Summer blue,2011.0,27.0,624.0,Petrol,71000.0,Tata
+1800000.0,Auto-2WD,Sunshine ray,2014.0,15.0,998.0,Petrol,47000.0,Maruti Suzuki
+1200000.0,Power Steering,white,2009.0,15.0,50000.0,Diesel,50000.0,Tata
+1200000.0,Power Steering,white,2009.0,15.0,50000.0,Diesel,50000.0,Tata
+2725000.0,Manual-2WD,white,2019.0,15.0,50000.0,Petrol,50000.0,Maruti Suzuki
+1850000.0,Manual-2WD,Grey,2018.0,17.0,1000.0,Petrol,65000.0,Maruti Suzuki
+1750000.0,Manual-2WD,light grey,2013.0,13.0,1500.0,Petrol,45.0,Hyundai
+1200000.0,Manual-2WD,"Brown, chocolate",2017.0,15.0,2523.0,Diesel,100000.0,Mahindra
+1575000.0,Manual-2WD,GREY,2018.0,15.0,800.0,Petrol,46333.0,Maruti Suzuki
+350000.0,Auto-2WD,Black,2004.0,10.0,1600.0,Petrol,90819.0,Other Brands
+3075000.0,Manual-2WD,Sleek Silver,2018.0,15.0,1197.0,Petrol,32000.0,Hyundai
+2150000.0,Manual-2WD,Red,2014.0,15.0,1600.0,Petrol,42000.0,Volkswagen
+775000.0,Manual-2WD,silver,2003.0,15.0,1500.0,Petrol,102500.0,Hyundai
+4000000.0,Manual-2WD,Pearl white,2019.0,15.0,1600.0,Petrol,20000.0,Hyundai
+1575000.0,Manual-2WD,light blue metallic,2007.0,15.0,1497.0,Petrol,65000.0,Toyota
+1999999.0,Auto-4WD,silver,2009.0,12.0,1990.0,Diesel,70000.0,Hyundai
+870000.0,Manual-2WD,Maroon,2009.0,16.0,800.0,Petrol,57000.0,Maruti Suzuki
+3750000.0,Auto-4WD,White,2017.0,20.0,1600.0,Petrol,65000.0,Hyundai
+1585000.0,Manual-2WD,Red,2014.0,15.0,50000.0,Petrol,26000.0,Maruti Suzuki
+2400000.0,Manual-2WD,Granite grey,2017.0,16.0,1197.0,Petrol,26000.0,Maruti Suzuki
+3075000.0,Manual-2WD,marron,2018.0,14.0,1200.0,Petrol,37000.0,Hyundai
+3750000.0,Manual-2WD,Silver,2018.0,15.0,50000.0,Petrol,5000.0,Nissan
+950000.0,Manual-2WD,sky blue,2008.0,15.0,1400.0,Petrol,81000.0,Hyundai
+1600000.0,Manual-2WD,Silver,2011.0,18.0,1200.0,Petrol,50000.0,Maruti Suzuki
+1435000.0,Manual-2WD,Light grey,2010.0,18.0,1200.0,Petrol,55700.0,Hyundai
+3050000.0,Manual-2WD,Pearl white,2016.0,16.0,1250.0,Diesel,55000.0,Maruti Suzuki
+850000.0,Manual-2WD,sky blue,2004.0,15.0,1200.0,Petrol,55.0,Hyundai
+3990000.0,Auto-2WD,White,2017.0,9.0,1748.7000000000003,Electric,42000.0,Kia
+950000.0,Manual-2WD,red,2005.0,15.0,1200.0,Petrol,45.0,Hyundai
+2950000.0,Manual-2WD,Silver,2021.0,17.0,1197.0,Petrol,19000.0,Hyundai
+600000.0,Manual-2WD,Blue,2008.0,15.0,2600.0,Diesel,50000.0,Mahindra
+1025000.0,Manual-2WD,Silver grey,2012.0,14.0,1200.0,Petrol,43000.0,Chevrolet
+800000.0,Auto-2WD,white,2012.0,15.0,1399.0,Diesel,70000.0,Tata
+4260000.0,Manual-2WD,Silver,2023.0,20.0,1000.0,Petrol,3000.0,Nissan
+1275000.0,Manual-2WD,C-RED,2013.0,15.0,1196.0,Petrol,21000.0,Ford
+1000000.0,Manual-2WD,Silver,2014.0,23.0,796.0,Petrol,149000.0,Maruti Suzuki
+1600000.0,Manual-2WD,white,2018.0,15.0,3000.0,Diesel,50000.0,Tata
+3050000.0,Manual-4WD,white,2011.0,14.0,1998.0,Petrol,58010.0,Kia
+1250000.0,Manual-2WD,Maroon,2009.0,12.0,1098.0,Petrol,65000.0,Hyundai
+2075000.0,Auto-2WD,white,2009.0,15.0,50000.0,Petrol,50000.0,Hyundai
+1850000.0,Manual-2WD,White,2017.0,15.0,1500.0,Petrol,43000.0,Ford
+1900000.0,Power Steering,white,2017.0,15.0,50000.0,Diesel,100000.0,Tata
+1575000.0,Manual-2WD,White,2018.0,15.0,2523.0,Diesel,29594.0,Mahindra
+1350000.0,Manual-2WD,silver,2018.0,17.0,1000.0,Petrol,42000.0,Datsun
+3375000.0,Manual-2WD,Polar White,2016.0,15.0,1591.0,Petrol,42097.0,Hyundai
+3500000.0,Auto-4WD,silver,2019.0,15.0,50000.0,Diesel,50000.0,Mahindra
+875000.0,Manual-2WD,white,2008.0,18.0,1000.0,Petrol,70000.0,Perodua
+1950000.0,Power Steering,Grey,2017.0,18.0,998.0,Petrol,41461.0,Maruti Suzuki
+1000000.0,Auto-2WD,black,2001.0,8.0,2000.0,Diesel,80000.0,Kia
+400000.0,Auto-2WD,black,2001.0,8.0,2000.0,Diesel,80000.0,Kia
+2700000.0,Manual-2WD,Silver,2017.0,16.0,1200.0,Petrol,51000.0,Maruti Suzuki
+2250000.0,Manual-2WD,white,2017.0,15.0,1200.0,Petrol,32000.0,Maruti Suzuki
+1990000.0,Auto-2WD,read,2013.0,15.0,1197.0,Petrol,71500.0,Maruti Suzuki
+3790000.0,Manual-4WD,White,2023.0,15.0,1200.0,Petrol,50000.0,Kia
+2700000.0,Manual-2WD,Silky Silver,2019.0,15.0,1197.0,Petrol,27000.0,Maruti Suzuki
+1075000.0,Auto-2WD,Black,2007.0,14.0,1086.0,Petrol,57000.0,Hyundai
+550000.0,Manual-2WD,White,2013.0,15.0,1400.0,Diesel,50000.0,Tata
+1300000.0,Manual-2WD,golden,2008.0,10.0,1599.0,Petrol,1350000.0,Honda
+1640000.0,Auto-2WD,Sliver,2010.0,14.0,1200.0,Petrol,65000.0,Hyundai
+1499999.0,Manual-2WD,gry,2017.0,15.0,1000.0,Petrol,32000.0,Renault
+1450000.0,Manual-2WD,red,2012.0,14.0,900.0,Diesel,81000.0,Mahindra
+4200000.0,Manual-4WD,silver,2018.0,12.0,2179.0,Diesel,58000.0,Mahindra
+625000.0,Manual-4WD,black,2005.0,15.0,1468.0,Petrol,6278.0,Other Brands
+2750000.0,Manual-2WD,Red,2022.0,15.0,999.0,Petrol,10000.0,Nissan
+1099999.0,Auto-2WD,blue,2021.0,23.0,1200.0,Diesel,8000.0,Tata
+2300000.0,Auto-4WD,white,2020.0,15.0,50000.0,Hybrid,50000.0,Toyota
+1500000.0,Auto-2WD,white,2010.0,15.0,800.0,Petrol,50000.0,Maruti Suzuki
+150000.0,Manual-2WD,White,1993.0,16.0,1900.0,Diesel,100000.0,Toyota
+850000.0,Manual-2WD,White,2012.0,16.0,1500.0,Diesel,60000.0,Toyota
+240000.0,Manual-2WD,white,1999.0,15.0,50000.0,Petrol,50000.0,Maruti Suzuki
+1400000.0,Manual-2WD,marron,2016.0,19.0,800.0,Petrol,42000.0,Hyundai
+4075000.0,Manual-2WD,silver,2021.0,16.0,1500.0,Petrol,12000.0,Maruti Suzuki
+650000.0,Auto-2WD,Gray,2017.0,20.0,800.0,Diesel,70000.0,Tata
+2575000.0,Manual-2WD,Silver,2018.0,15.0,1200.0,Petrol,32000.0,Hyundai
+1850000.0,Manual-2WD,Gray,2014.0,15.0,1200.0,Petrol,48000.0,Hyundai
+740000.0,Auto-2WD,White,2018.0,15.0,800.0,Petrol,17000.0,Maruti Suzuki
+3725000.0,Manual-4WD,Silk Silver,2011.0,12.0,2000.0,Diesel,36091.0,Hyundai
+600000.0,Manual-2WD,Satine silver,2008.0,12.0,400.0,Petrol,50000.0,Other Brands
+3900000.0,Manual-2WD,White,2015.0,12.0,2800.0,Diesel,50000.0,Toyota
+1450000.0,Manual-4WD,gray,2017.0,15.0,2500.0,Diesel,42000.0,Mahindra
+1675000.0,Auto-4WD,white,2019.0,15.0,2500.0,Diesel,56000.0,Mahindra
+1465000.0,Manual-2WD,Silver,2010.0,20.0,1200.0,Petrol,60000.0,Hyundai
+799999.0,Manual-2WD,Metallic Grey,2004.0,15.0,1498.0,Petrol,108000.0,Honda
+1925000.0,Manual-2WD,Navy blue,2015.0,15.0,1200.0,Petrol,60000.0,Hyundai
+1950000.0,Manual-2WD,Carbon Steel ( Dark Grey),2014.0,12.0,1200.0,Petrol,60000.0,Renault
+1750000.0,Manual-2WD,silver,2014.0,15.0,1200.0,Petrol,93000.0,Hyundai
+2450000.0,Auto-4WD,cream,2007.0,13.0,2200.0,Diesel,60000.0,Nissan
