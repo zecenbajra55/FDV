@@ -58,37 +58,40 @@ async def predict_image(file: UploadFile = File(...)):
 
 @app.post("/display-resized-image/")
 async def display_resized_image(file: UploadFile = File(...)):
-    # Check if the uploaded file is an image
-    if not file.content_type.startswith("image/"):
-        return HTTPException(status_code=400, detail="Only images allowed")
+    try:
+        # Check if the uploaded file is an image
+        if not file.content_type.startswith("image/"):
+            raise HTTPException(status_code=400, detail="Only images allowed")
 
-    # Read the image file
-    contents = await file.read()
-    nparr = np.frombuffer(contents, np.uint8)
-    image = cv2.imdecode(nparr, cv2.IMREAD_COLOR)
+        # Read the image file
+        contents = await file.read()
+        nparr = np.frombuffer(contents, np.uint8)
+        image = cv2.imdecode(nparr, cv2.IMREAD_COLOR)
 
-    # Resize the image
-    resized_image = cv2.resize(image, (64, 64))
+        # Resize the image
+        resized_image = cv2.resize(image, (64, 64))
 
-    # Encode the resized image to bytes
-    _, img_encoded = cv2.imencode(".jpg", resized_image)
-    img_bytes = img_encoded.tobytes()
+        # Encode the resized image to base64 string
+        _, img_encoded = cv2.imencode(".jpg", resized_image)
+        img_base64 = base64.b64encode(img_encoded).decode()
 
-    # Generate HTML to display the resized image
-    html_content = """
-    <html>
-    <head>
-    <title>Resized Image</title>
-    </head>
-    <body>
-    <h2>Resized Image</h2>
-    <img src="data:image/jpeg;base64,{}" />
-    </body>
-    </html>
-    """.format(img_bytes.decode('utf-8'))
+        # Generate HTML to display the resized image
+        html_content = f"""
+        <html>
+        <head>
+        <title>Resized Image</title>
+        </head>
+        <body>
+        <h2>Resized Image</h2>
+        <img src="data:image/jpeg;base64,{img_base64}" />
+        </body>
+        </html>
+        """
 
-    # Return HTML response with the resized image
-    return HTMLResponse(content=html_content, status_code=200)
+        # Return HTML response with the resized image
+        return HTMLResponse(content=html_content, status_code=200)
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Internal Server Error: {str(e)}")
 
 # Run the FastAPI app
 if __name__ == "__main__":
